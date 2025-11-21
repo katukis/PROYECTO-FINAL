@@ -27,7 +27,8 @@ int metervotos(int tabla[][3])
     {
         printf("persona %d ingresa 3 canciones: ", total);
 
-        if (scanf("%d", &a) != 1) {
+        if (scanf("%d", &a) != 1) 
+        {
             break;
         }
 
