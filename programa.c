@@ -1,9 +1,4 @@
 #include <stdio.h>
-
-#define maxpersonas
-#define numcanciones
-#define votos
-
 void resetear(int arr[], int tam) 
 {
     int i;
